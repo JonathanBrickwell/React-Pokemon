@@ -1,0 +1,18 @@
+.card {
+  width: 18rem;
+  margin: 10px 0 10px 0;
+}
+
+.container.pokedex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.load-more {
+  margin-bottom: 20px;
+}
+
+/* Search */
